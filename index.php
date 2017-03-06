@@ -1,7 +1,7 @@
 <?php
     //header("location: vue/index.php");
 
-	require("modele/autoLoader.php");
+	require('modele/autoLoader.php');
     AutoLoader::register();
     
 
@@ -9,6 +9,7 @@
     $routeur->dispatch();
 
     //require("controller/controller.php");
+
 
 
 

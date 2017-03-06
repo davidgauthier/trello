@@ -19,6 +19,7 @@
 
     <body>
 
+
         <?php
         // La navigation
         include("include/navigation.php");
@@ -56,4 +57,5 @@
              
     
     </body>
+    
 </html>
